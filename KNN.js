@@ -1,5 +1,6 @@
 module.exports = {
     KNN: function (input, K) {
+        let vntk = require("vntk")
         let fs = require('fs');
         let wordVecs = fs.readFileSync('output_Vec.json', 'utf8')
         wordVecs = JSON.parse(wordVecs);
