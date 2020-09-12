@@ -18,7 +18,7 @@
     "@vitalets/google-translate-api": "^3.0.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "path": "^0.12.7",
     "random-item": "^3.0.0",
     "vntk":"^1.4.1"
